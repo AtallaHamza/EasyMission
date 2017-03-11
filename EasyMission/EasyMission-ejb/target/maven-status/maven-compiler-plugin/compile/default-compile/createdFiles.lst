@@ -1,0 +1,15 @@
+marsoc\tn\EasyMission\persistence\Deal.class
+marsoc\tn\EasyMission\persistence\SousServices.class
+marsoc\tn\EasyMission\persistence\AchatDealPK.class
+marsoc\tn\EasyMission\persistence\Demande.class
+marsoc\tn\EasyMission\persistence\DealPK.class
+marsoc\tn\EasyMission\persistence\DetailsPK.class
+marsoc\tn\EasyMission\persistence\Agent.class
+marsoc\tn\EasyMission\persistence\User.class
+marsoc\tn\EasyMission\persistence\Client.class
+marsoc\tn\EasyMission\persistence\JobOffersPK.class
+marsoc\tn\EasyMission\persistence\JobOffers.class
+marsoc\tn\EasyMission\persistence\DemandePK.class
+marsoc\tn\EasyMission\persistence\Service.class
+marsoc\tn\EasyMission\persistence\AchatDeal.class
+marsoc\tn\EasyMission\persistence\Details.class
