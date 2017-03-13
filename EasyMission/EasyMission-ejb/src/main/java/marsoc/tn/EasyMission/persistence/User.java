@@ -22,11 +22,24 @@ public class User implements Serializable {
 	private String login;
 	private String password;
 	private String email;
+
+	private Integer age;
+    
+    private String street;
+     
+    private String city;
+     
+    private String postalCode;
+     
+    private String info;
+ 
+
 	
 
 
 
 	@Id
+	@GeneratedValue(strategy=GenerationType.AUTO)
 	public int getIdUser() {
 		return idUser;
 	}
@@ -85,5 +98,45 @@ public class User implements Serializable {
 	public void setTelephone(String Telephone) {
 		this.Telephone = Telephone;
 	}
+	   
+		public Integer getAge() {
+			return age;
+		}
+
+		public void setAge(Integer age) {
+			this.age = age;
+		}
+
+		public String getStreet() {
+			return street;
+		}
+
+		public void setStreet(String street) {
+			this.street = street;
+		}
+
+		public String getCity() {
+			return city;
+		}
+
+		public void setCity(String city) {
+			this.city = city;
+		}
+
+		public String getPostalCode() {
+			return postalCode;
+		}
+
+		public void setPostalCode(String postalCode) {
+			this.postalCode = postalCode;
+		}
+
+		public String getInfo() {
+			return info;
+		}
+
+		public void setInfo(String info) {
+			this.info = info;
+		}
    
 }

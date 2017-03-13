@@ -18,6 +18,7 @@ public class Service implements Serializable {
 	
 	private int id;
 	private String Description;
+	private String nom;
 	private float taux;
 	private List<SousServices> sous_service;
 	private static final long serialVersionUID = 1L;
@@ -54,6 +55,19 @@ public class Service implements Serializable {
 
 	public void setTaux(float taux) {
 		this.taux = taux;
+	}
+
+	@Override
+	public String toString() {
+		return nom;
+	}
+
+	public String getNom() {
+		return nom;
+	}
+
+	public void setNom(String nom) {
+		this.nom = nom;
 	}
 
 	

@@ -79,8 +79,6 @@
 	</distributionManagement>
 
 
-
-
   <modules>
     <module>EasyMission-ejb</module>
     <module>EasyMission-web</module>

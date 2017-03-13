@@ -1,0 +1,14 @@
+marsoc\tn\EasyMission\presentation\mbeans\ValidationView.class
+marsoc\tn\EasyMission\presentation\mbeans\SousServiceBean.class
+marsoc\tn\EasyMission\presentation\mbeans\UserBean.class
+marsoc\tn\EasyMission\presentation\mbeans\UserService.class
+marsoc\tn\EasyMission\presentation\mbeans\SpinnerController.class
+marsoc\tn\EasyMission\presentation\mbeans\BasicView.class
+marsoc\tn\EasyMission\presentation\mbeans\BasicVieww.class
+marsoc\tn\EasyMission\presentation\mbeans\DemandeBean.class
+marsoc\tn\EasyMission\presentation\mbeans\DealBean.class
+marsoc\tn\EasyMission\presentation\mbeans\DeatailsBean.class
+marsoc\tn\EasyMission\presentation\mbeans\FilterView.class
+marsoc\tn\EasyMission\presentation\mbeans\JobOfferBean.class
+marsoc\tn\EasyMission\presentation\mbeans\ServiceBean.class
+marsoc\tn\EasyMission\presentation\mbeans\AchatDealBean.class

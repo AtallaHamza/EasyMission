@@ -1,5 +1,7 @@
 package marsoc.tn.EasyMission.services;
 
+import java.util.List;
+
 import javax.ejb.Remote;
 
 import marsoc.tn.EasyMission.persistence.User;
@@ -13,5 +15,6 @@ public interface IRemoteGestionUser {
 	void supprimerUser(User user);
 
 	void modifierUser(User user);
+	List<User> afficherUser();
 
 }
